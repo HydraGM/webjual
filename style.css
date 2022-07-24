@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-size: large;
+    background-image: url(https://i.pinimg.com/originals/b1/20/25/b1202568d88e8fe9e02e7a67fa42c93e.jpg);
+    background-size: cover;
+}
+.gambar {
+    margin-top: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+a {
+    font-size: medium;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
